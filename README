@@ -1,0 +1,30 @@
+26 de outubro de 2011
+
+Vieram
+  _ Bruno Pedroso
+  - Gabriel Rodrigues
+  
+  
+Implementamos o 3n+1, que pegamos [aqui|http://www.acmsolver.org/books/Programming_Challenges_Miguel_Skiena.pdf] em java e depois em ruby.
+
+=)
+  - comparamos 
+    - duas implementações
+    - duas liguagens
+    - duas abordagens
+      - desempenhos
+      - de cima pra baixo
+      - de baixo pra cima
+  - refatoramos bastante o código ruby
+  - aprendemos umas coisas legais de ruby
+    - shift em inteiros
+    - adicionamos um método no inteiro
+    - map para fazer o método em uma linha só
+  - achamos o livro de problemas!
+  
+=(
+  - problema meio simples demais
+  - vieram só 2 pessoas
+  - começamos atrasados
+  - não refatoramos muito o java
+  - perdemos um tempo procurando o problema na net
